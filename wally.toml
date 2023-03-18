@@ -1,9 +1,10 @@
 [package]
-name = "xswezan/modulename"
+name = "xswezan/storeservice"
+description = "Create Stores/Services easily!"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-Janitor = "howmanysmall/janitor@1.15.1"
+# Janitor = "howmanysmall/janitor@1.15.1"
 Promise = "evaera/promise@4.0.0"

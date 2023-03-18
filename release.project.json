@@ -1,12 +1,12 @@
 {
-	"name": "ModuleName",
-	"servePlaceIds": [],
+	"name": "StoreService",
+	"servePlaceIds": [12820009298],
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
 			"$className": "ReplicatedStorage",
 
-			"lib": {
+			"StoreService": {
 				"$path": "Packages",
 				"$className": "ModuleScript",
 				"$properties": {
